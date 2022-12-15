@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hot-fix 添加了代码");
         System.out.println("master 添加了代码");
         System.out.println("hot-fix 又添加了代码");
+        System.out.println("master: 我是rick");
     }
 }
