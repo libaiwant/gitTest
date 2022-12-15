@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot-fix 又添加了代码");
         System.out.println("master: 我是rick");
          System.out.println("github: 我仍然在笑");
+        System.out.println("我发送给github的代码");
     }
 }
